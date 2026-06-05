@@ -28,11 +28,13 @@ pip install -r requirements.txt
 Öncelikle Mission Planner üzerinden ArduPilot SITL başlatılmalıdır.
 
 Daha sonra proje dizininde:
-
+```
 python main.py
+```
 komutu çalıştırılarak uygulama başlatılır.
 
 Proje Yapısı
+```text
 Poyraz_YKI/
 │
 ├── main.py
@@ -47,3 +49,4 @@ Poyraz_YKI/
 │
 └── map/
     └── map_widget.py
+```
