@@ -22,8 +22,9 @@ Uygulama, ArduPilot SITL simülasyonundan MAVLink protokolü üzerinden telemetr
 * Çok iş parçacıklı (QThread) yapı ile kesintisiz arayüz
 ## Kurulum
 Gerekli kütüphaneleri yüklemek için:
-
+```text
 pip install -r requirements.txt
+```
 ## Çalıştırma
 Öncelikle Mission Planner üzerinden ArduPilot SITL başlatılmalıdır.
 
